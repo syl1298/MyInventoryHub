@@ -1,0 +1,2 @@
+# MyInventoryHub
+My InventoryHub integration
